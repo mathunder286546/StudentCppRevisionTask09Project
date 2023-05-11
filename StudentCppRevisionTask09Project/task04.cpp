@@ -24,4 +24,6 @@
 *	[output 4]: 0
 */
 
-//task04
+string task04(int a) {
+	return " ";
+}

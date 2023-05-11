@@ -21,6 +21,6 @@
 *	[output 3]: 0
 */
 
-int task03(int n, int c, int m) {
-	return;
+int task03(int n) {
+	return 0;
 }

@@ -23,4 +23,4 @@
 *	[output 4]: 2
 *
 
-//task05
+int task05

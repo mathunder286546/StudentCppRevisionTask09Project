@@ -30,4 +30,6 @@
 *	[output 6]: true
 */
 
-//taskX
+ taskX(long a) {
+
+}

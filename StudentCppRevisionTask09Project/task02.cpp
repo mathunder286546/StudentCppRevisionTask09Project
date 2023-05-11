@@ -27,6 +27,7 @@
 *	[output 4]: false
 */
 
-int task02(int a, int d) {
+int task02(int a) {
+	
 	return ;
 }

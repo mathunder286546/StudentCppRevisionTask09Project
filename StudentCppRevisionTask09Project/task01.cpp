@@ -24,8 +24,8 @@
 *	[output 4]: 0
 */
 
-int task01(int a, int b) {
-	if(a/b)
-	return  0;
+int task01(int a) {
+	
+	return 0;
 }
 
